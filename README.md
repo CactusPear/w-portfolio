@@ -21,6 +21,10 @@ Here you'll find all the files and links you'll need for the workshop.
 - **PDF:** portfolio-resources
 
   - Includes :one: links to colour palette tools, :two: links to domain name registrars, :three: links to real world portfolios, and :four: links to Google Sites resources
+
+- **PDF:** workshop-ppt
+
+  - Includes slides with visual on topics covered in the workshop
 <br>
 
 ## 2 - Website Demo
