@@ -16,7 +16,11 @@ Here you'll find all the files and links you'll need for the workshop.
 
 - **Folder:** website-headshots
 
-  - Includes 24 AI-generated images
+  - Includes 24 ChatGPT generated images
+ 
+- **PDF:** how-to-export-logos
+
+  - Includes instructions with images on how to export your logo from Adobe Illustrator and Power Point.
 
 - **PDF:** portfolio-resources
 
